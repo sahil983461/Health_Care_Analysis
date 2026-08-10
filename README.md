@@ -129,7 +129,7 @@ Healthcare-Analytics/
 
 ### Home page
 
-![MD_Overview](Assets/MD_Overview.png)
+![MD_Overview](Assets/MD_overview.png)
 
 ### Det_Overview
 
